@@ -53,7 +53,7 @@ langchain-community==0.3.27
 
 fake-useragent==2.2.0
 chromadb==1.0.20
-pymilvus==2.5.0
+pymilvus==2.6.2
 qdrant-client==1.14.3
 opensearch-py==2.8.0
 playwright==1.49.1 # Caution: version must match docker-compose.playwright.yaml
